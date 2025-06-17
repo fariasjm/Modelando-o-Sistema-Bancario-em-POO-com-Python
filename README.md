@@ -21,14 +21,21 @@ O código está organizado em funções para melhorar a modularidade e a manuten
 - **Nova conta**: Cria uma nova conta bancária para um usuário existente.
 - **Listar contas**: Lista todas as contas bancárias cadastradas.
 - **Novo usuario**: Cadastra um novo usuário.
-- **main**: Função principal que controla o fluxo do programa.
+- **Main**: Função principal que controla o fluxo do programa.
 
 =============== MENU ================
+
 [d]	Depositar
+
 [s]	Sacar
+
 [e]	Extrato
+
 [nc]	Nova conta
+
 [lc]	Listar contas
+
 [nu]	Novo usuário
+
 [q]	Sair
 
