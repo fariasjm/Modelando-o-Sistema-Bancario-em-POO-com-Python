@@ -14,15 +14,21 @@ O sistema permite cadastrar usuários, criar contas bancárias e realizar opera�
 ## Estrutura do Código
 O código está organizado em funções para melhorar a modularidade e a manutenção:
 
-- **menu**: Exibe o menu principal e retorna a opção escolhida pelo usuário.
-- **depositar**: Realiza um depósito em uma conta bancária.
-- **sacar**: Realiza um saque de uma conta bancária.
-- **exibir_extrato**: Exibe o extrato de uma conta bancária.
-- **criar_usuario**: Cadastra um novo usuário.
-- **filtrar_usuario**: Busca um usuário pelo CPF.
-- **criar_conta**: Cria uma nova conta bancária para um usuário existente.
-- **listar_contas**: Lista todas as contas bancárias cadastradas.
+- **Menu**: Exibe o menu principal e retorna a opção escolhida pelo usuário.
+- **Depositar**: Realiza um depósito em uma conta bancária.
+- **Sacar**: Realiza um saque de uma conta bancária.
+- **Extrato**: Exibe o extrato de uma conta bancária.
+- **Nova conta**: Cria uma nova conta bancária para um usuário existente.
+- **Listar contas**: Lista todas as contas bancárias cadastradas.
+- **Novo usuario**: Cadastra um novo usuário.
 - **main**: Função principal que controla o fluxo do programa.
 
-
+=============== MENU ================
+[d]	Depositar
+[s]	Sacar
+[e]	Extrato
+[nc]	Nova conta
+[lc]	Listar contas
+[nu]	Novo usuário
+[q]	Sair
 
